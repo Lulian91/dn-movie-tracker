@@ -46,11 +46,17 @@ export default function Header() {
             <MenuItem to="/search">Search</MenuItem>
             <MenuItem to="/watchlist">Watchlist</MenuItem>
             <MenuItem to="/history">History</MenuItem>
+            
           </Box>
 
           <Box display={{ base: show ? 'block' : 'none', sm: 'block' }} mt={{ base: 4, sm: 0 }}>
             <Button as={RouterLink} to="/recommendations" bg="transparent" border="1px">
               What to watch
+            </Button>
+          </Box>
+          <Box display={{ base: show ? 'block' : 'none', sm: 'block' }} mt={{ base: 4, sm: 0 }}>
+            <Button as={RouterLink} to="/login" bg="transparent" border="1px">
+              Login
             </Button>
           </Box>
         </Flex>
