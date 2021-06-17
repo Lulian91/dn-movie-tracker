@@ -1,6 +1,5 @@
 # Movie tracker
 
-![ui.png](./images/ui.png)
 ![post](https://user-images.githubusercontent.com/69899770/122466765-63ce4680-cfc2-11eb-8268-22a1e8cddcee.png)
 ![image](https://user-images.githubusercontent.com/69899770/122466934-92e4b800-cfc2-11eb-8dc8-dc76ff1fbfca.png)
 
